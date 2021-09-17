@@ -22,8 +22,8 @@ An employee can aprove or deny accounts and view account balances for their cust
   * As an employee, I can view a log of all transactions.
   
  ## Implementation
-  * Coded on Eclipse IDE
-  * Data is stored in a database i.e, ** PostgreSQL
+  * Coded on **Eclipse IDE.
+  * Data is stored in a database i.e, **PostgreSQL**
   * Role based authentication has been implemented 
   * Exception handling has been done.
   * A custom stored procedure is called to perform some portion of the functionality.
