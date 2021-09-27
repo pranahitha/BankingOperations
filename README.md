@@ -21,7 +21,7 @@ The Online Banking Application is a web-based application that simulates banking
 - Servlets
 - Hibernate 5.5.3
 ## Features
-- Employee and Customer will be able to signup with valid details and while signing in their details are getting validated, if the credentials are wrong they are asked to input their credentials again otherwise they logged in into their dashboard
+- Bank employee and Customer will be able to signup with valid details and while signing in their details are getting validated, if the credentials are wrong they are asked to input their credentials again otherwise they logged in into their dashboard
 - Both Employee and Customer Module will be able to perform all the required activity with this application.
 - User module will be able to manage the employees and the customers based on the requirements.
 - Implementation of Exception handling and Logging working perfectly in thuis application.
@@ -34,7 +34,7 @@ To-do List
 ## Getting Started
 1. Start with this Github Repository
 
-2. Git clone to directory of your choice $ git clone 
+2. Git clone to directory of your choice $ git clone https://github.com/pranahitha/BankingOperations.git.
 
 3. Run the project on server
 
