@@ -39,7 +39,7 @@ To-do List
 3. Run the project on server
 
 ## Usage
-1. You habe to signup as your Requirement like as (User, Employee, Customer).
+1. You have to signup as your Requirement like as (User, Employee, Customer).
 2. Login with valid Credentials to access your dashboard.
 3. After Successfully logged in into your dashboard you can perform the task regarding to your module.
   
