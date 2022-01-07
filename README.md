@@ -1,6 +1,7 @@
 # Online Banking Application
 Home Page:
 
+![WelcomeBanking](https://user-images.githubusercontent.com/52285629/148493448-e306eab0-a5f1-480a-8b88-f57d85bfb5f2.jpg)
 
 
 ## Project Description
