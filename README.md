@@ -1,7 +1,16 @@
 # Online Banking Application
-Home Page:
+
+## Home Page:
 
 ![WelcomeBanking](https://user-images.githubusercontent.com/52285629/148493448-e306eab0-a5f1-480a-8b88-f57d85bfb5f2.jpg)
+
+## Employe Page:
+
+![EmpBank](https://user-images.githubusercontent.com/52285629/148493652-98f0b900-da30-4d59-a4dd-2a577e453cdb.jpg)
+
+## Customer Page:
+![customerBank](https://user-images.githubusercontent.com/52285629/148493731-44b9007d-4e7d-497d-a0f7-d42d68220c73.jpg)
+
 
 
 ## Project Description
